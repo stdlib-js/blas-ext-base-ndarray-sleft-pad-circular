@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-11)
+## Unreleased (2026-11-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`ce75341`](https://github.com/stdlib-js/stdlib/commit/ce75341b13685858be54c3c3712511a52a40fdcc) - **docs:** update examples [(#16674)](https://github.com/stdlib-js/stdlib/pull/16674) _(by Philipp Burckhardt)_
 -   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`d34ba64`](https://github.com/stdlib-js/stdlib/commit/d34ba6452e80d0251d29d0ee864edcdf0b5052bf) - **feat:** add `blas/ext/base/ndarray/sleft-pad-circular` [(#15987)](https://github.com/stdlib-js/stdlib/pull/15987) _(by Muhammad Haris)_
 
